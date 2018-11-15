@@ -1,0 +1,8 @@
+connection: local
+ansible_connection: local
+
+lmi_port: 443
+
+force: False
+
+username: admin@local
