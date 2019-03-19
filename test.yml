@@ -1,5 +1,6 @@
 ---
 - name: Sample Playbook
   hosts: localhost
+  connection: local
   tasks:
     - debug: msg="This is a test"
