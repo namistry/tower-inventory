@@ -1,0 +1,4 @@
+---
+- host: localhost
+  tasks:
+    - debug: msg="This is a test"
